@@ -1,0 +1,1 @@
+from .ApplicationRecord import ApplicationRecord
